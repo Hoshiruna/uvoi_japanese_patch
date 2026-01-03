@@ -1,0 +1,383 @@
+{
+    "boss-spellcard-history": "History",
+    "boss-spellcard-bonus": "Bonus",
+    "boss-spellcard-failed": "Failed",
+
+    "name-boss-comment": "下面是各种角色的名称",
+    
+    "boss-name-Reimu": "博丽 灵梦",
+    "boss-name-Marisa": "雾雨 魔理沙",
+    "boss-name-Aya": "射命丸 文",
+    
+    "name-boss-Unknown-en": "???",
+    
+    "boss-name-Hansha": "晶耀泛纱",
+
+    "boss-name-Louisa": "克拉丽贝尔·路易莎",
+
+    "boss-name-Ryouki": "雾凛凉纪",
+
+    "name-midboss1-comment": "下面是1道中的卡",
+    "name-midboss1-normal1-E": "道中攻击1",
+    "name-midboss1-normal1-N": "道中攻击1",
+    "name-midboss1-normal1-H": "道中攻击1",
+    "name-midboss1-normal1-L": "道中攻击1",
+
+    "name-midboss1-normal2-E": "道中攻击2",
+    "name-midboss1-normal2-N": "道中攻击2",
+    "name-midboss1-normal2-H": "道中攻击2",
+    "name-midboss1-normal2-L": "道中攻击2",
+
+
+
+    "name-boss1-normal1-E": "常规攻击1",
+    "name-boss1-normal1-N": "常规攻击1",
+    "name-boss1-normal1-H": "常规攻击1",
+    "name-boss1-normal1-L": "常规攻击1",
+
+    "name-boss1-normal2-E": "常规攻击2",
+    "name-boss1-normal2-N": "常规攻击2",
+    "name-boss1-normal2-H": "常规攻击2",
+    "name-boss1-normal2-L": "常规攻击2",
+
+    "name-boss1-card1-E": "「七彩的光之使者」",
+    "name-boss1-card1-N": "「七彩的光之使者」",
+    "name-boss1-card1-H": "「天上与人间的虹光使者」",
+    "name-boss1-card1-L": "「天上与人间的虹光使者」",
+
+    "name-boss1-card2-E": "炳烁「彩光创造」",
+    "name-boss1-card2-N": "炳烁「彩光创造」",
+    "name-boss1-card2-H": "焜耀「神域人间之桥」",
+    "name-boss1-card2-L": "焜耀「神域人间之桥」",
+
+
+
+    "name-midboss2-comment": "下面是道中2boss的卡",
+    "name-midboss2-card1-E": "「光辉的时间隧道」",
+    "name-midboss2-card1-N": "「光辉的时间隧道」",
+    "name-midboss2-card1-H": "「远空的时间隧道」",
+    "name-midboss2-card1-L": "「远空的时间隧道」",
+    
+    "name-boss2-comment": "下面是时间穿越者的卡",
+    "name-boss2-normal1-E": "常规攻击1",
+    "name-boss2-normal1-N": "常规攻击1",
+    "name-boss2-normal1-H": "常规攻击1",
+    "name-boss2-normal1-L": "常规攻击1",
+    
+    "name-boss2-normal2-E": "常规攻击2",
+    "name-boss2-normal2-N": "常规攻击2",
+    "name-boss2-normal2-H": "常规攻击2",
+    "name-boss2-normal2-L": "常规攻击2",
+    
+    "name-boss2-card1-E": "干扰「认知错乱」",
+    "name-boss2-card1-N": "干扰「认知错乱」",
+    "name-boss2-card1-H": "错乱「因果矫正」",
+    "name-boss2-card1-L": "错乱「因果矫正」",
+    
+    "name-boss2-card2-E": "潜行「时间探照镜」",
+    "name-boss2-card2-N": "潜行「时间探照镜」",
+    "name-boss2-card2-H": "潜行「时间探照镜」",
+    "name-boss2-card2-L": "潜行「时间探照镜」",
+    
+    "name-boss2-card3-E": "再临「封闭的时间曲线」",
+    "name-boss2-card3-N": "双位「封闭的时间曲线」",
+    "name-boss2-card3-H": "「回转的双体福音」",
+    "name-boss2-card3-L": "「回转的双体福音」",
+    
+    
+    "name-boss3-comment": "下面是3boss的卡",
+    
+    "name-boss3-normal1-E": "常规攻击1",
+    "name-boss3-normal1-N": "常规攻击1",
+    "name-boss3-normal1-H": "常规攻击1",
+    "name-boss3-normal1-L": "常规攻击1",
+    
+    "name-boss3-normal2-E": "常规攻击2",
+    "name-boss3-normal2-N": "常规攻击2",
+    "name-boss3-normal2-H": "常规攻击2",
+    "name-boss3-normal2-L": "常规攻击2",
+    
+    "name-boss3-normal3-E": "常规攻击3",
+    "name-boss3-normal3-N": "常规攻击3",
+    "name-boss3-normal3-H": "常规攻击3",
+    "name-boss3-normal3-L": "常规攻击3",
+
+    "name-boss3-card1-E": "落水「飞越轨道」",
+    "name-boss3-card1-N": "落水「打破平静的冲撞」",
+    "name-boss3-card1-H": "坠海「千层水花」",
+    "name-boss3-card1-L": "坠海「Breathless Stillness」",
+    
+    "name-boss3-card2-E": "普通「无尽的烟雾与疾驰的列车」",
+    "name-boss3-card2-N": "普通「无尽的蒸汽与飞驰的列车」",
+    "name-boss3-card2-H": "特急「效率150%的魔法蒸汽」",
+    "name-boss3-card2-L": "特急「效率200%的魔法蒸汽」",
+    
+    "name-boss3-card3-E": "审判「座无虚席的不寻常列车」",
+    "name-boss3-card3-N": "审判「座无虚席的不寻常列车」",
+    "name-boss3-card3-H": "谋杀「Murder on the Touhou Express」",
+    "name-boss3-card3-L": "谋杀「Murder on the Touhou Express」",
+    
+    "name-boss3-card4-E": "「相互牵制的双轮」",
+    "name-boss3-card4-N": "「相互牵制的双轮」",
+    "name-boss3-card4-H": "「永不停歇的命运车轮」",
+    "name-boss3-card4-L": "「永不停歇的命运车轮」",
+    
+
+    
+    "name-midboss4-comment": "下面又是穿越者的卡",
+
+    "name-midboss4-card1-E": "归符「负增长回溯」",
+    "name-midboss4-card1-N": "归符「负增长回溯」",
+    "name-midboss4-card1-H": "「汇聚的时间能量」",
+    "name-midboss4-card1-L": "「汇聚的时间能量」",
+
+    "name-boss4-comment": "下面是旅行家的卡",
+
+    "name-boss4-normal1-E": "常规攻击1",
+    "name-boss4-normal1-N": "常规攻击1",
+    "name-boss4-normal1-H": "常规攻击1",
+    "name-boss4-normal1-L": "常规攻击1",
+
+    "name-boss4-normal2-E": "常规攻击2",
+    "name-boss4-normal2-N": "常规攻击2",
+    "name-boss4-normal2-H": "常规攻击2",
+    "name-boss4-normal2-L": "常规攻击2",
+
+    "name-boss4-normal3-E": "常规攻击3",
+    "name-boss4-normal3-N": "常规攻击3",
+    "name-boss4-normal3-H": "常规攻击3",
+    "name-boss4-normal3-L": "常规攻击3",
+
+    "name-boss4-card1-E": "向符「目标锁定」",
+    "name-boss4-card1-N": "向符「目标锁定」",
+    "name-boss4-card1-H": "远点「召唤方位的北极星」",
+    "name-boss4-card1-L": "探索「世界极点之想象」",
+
+    "name-boss4-card2-E": "幽符「孤寂中诞生的恐惧」",
+    "name-boss4-card2-N": "漫游「恐惧！旅行者的噩梦」",
+    "name-boss4-card2-H": "理符「无意义的思索」",
+    "name-boss4-card2-L": "心符「彷徨信念的意义构筑」",
+    
+    "name-boss4-card3-E": "逆流「理想的追寻之旅」",
+    "name-boss4-card3-N": "逆流「理想的追寻之旅」",
+    "name-boss4-card3-H": "漂流「散落在心中的期望」",
+    "name-boss4-card3-L": "漂流「散落在心中的期望」",
+    
+    "name-boss4-card4-E": "环游「行遍世界」",
+    "name-boss4-card4-N": "环游「行遍世界」",
+    "name-boss4-card4-H": "漂游「天圆地方世界的另一面」",
+    "name-boss4-card4-L": "梦游「自我意识的自我怀疑」",
+    
+    "name-midboss5-comment": "下面是小女孩的卡",
+
+    "name-midboss5-normal1-E": "道中攻击1",
+    "name-midboss5-normal1-N": "道中攻击1",
+    "name-midboss5-normal1-H": "道中攻击1",
+    "name-midboss5-normal1-L": "道中攻击1",
+
+    "name-midboss5-card1-E": "宛虹「A Rainbow in Curved Space」",
+    "name-midboss5-card1-N": "宛虹「A Rainbow in Curved Space」",
+    "name-midboss5-card1-H": "「The Construction of Light」",
+    "name-midboss5-card1-L": "「The Construction of Light」",
+
+    "name-boss5-comment": "下面是大领导的卡",
+
+    "name-boss5-normal1-E": "常规攻击1",
+    "name-boss5-normal1-N": "常规攻击1",
+    "name-boss5-normal1-H": "常规攻击1",
+    "name-boss5-normal1-L": "常规攻击1",
+
+    "name-boss5-normal2-E": "常规攻击2",
+    "name-boss5-normal2-N": "常规攻击2",
+    "name-boss5-normal2-H": "常规攻击2",
+    "name-boss5-normal2-L": "常规攻击2",
+
+    "name-boss5-normal3-E": "常规攻击3",
+    "name-boss5-normal3-N": "常规攻击3",
+    "name-boss5-normal3-H": "常规攻击3",
+    "name-boss5-normal3-L": "常规攻击3",
+
+    "name-boss5-card1-E": "律法「The Code of Recht」",
+    "name-boss5-card1-N": "律法「The Code of Recht」",
+    "name-boss5-card1-H": "秩序「律法之春」",
+    "name-boss5-card1-L": "秩序「正义之夏」",
+
+    "name-boss5-card2-E": "引力「无法逃离的空间」",
+    "name-boss5-card2-N": "引力「无法逃离的空间」",
+    "name-boss5-card2-H": "引力「无法逃离的空间」",
+    "name-boss5-card2-L": "引力「无法逃离的空间」",
+
+    "name-boss5-card3-E": "光符「独尊的万物本源」",
+    "name-boss5-card3-N": "强权「一神主导的精神领地」",
+    "name-boss5-card3-H": "神化「阿顿的光辉与世界」",
+    "name-boss5-card3-L": "神化「阿顿的光辉与世界」",
+
+    "name-boss5-card4-E": "「宇宙的心之网」",
+    "name-boss5-card4-N": "「宇宙的心之网」",
+    "name-boss5-card4-H": "神聚「物换星移心不动」",
+    "name-boss5-card4-L": "神聚「物换星移心不动」",
+
+    "name-boss5-card5-E": "演化「超新星遗迹」",
+    "name-boss5-card5-N": "演化「铃宕的余波」",
+    "name-boss5-card5-H": "星耀「天地灵明」",
+    "name-boss5-card5-L": "星耀「天地灵明」",
+
+    "name-boss6-comment": "下面是？？？的卡",
+
+    "name-boss6-normal1-E": "常规攻击1",
+    "name-boss6-normal1-N": "常规攻击1",
+    "name-boss6-normal1-H": "常规攻击1",
+    "name-boss6-normal1-L": "常规攻击1",
+
+    "name-boss6-normal2-E": "常规攻击2",
+    "name-boss6-normal2-N": "常规攻击2",
+    "name-boss6-normal2-H": "常规攻击2",
+    "name-boss6-normal2-L": "常规攻击2",
+
+    "name-boss6-normal3-E": "常规攻击3",
+    "name-boss6-normal3-N": "常规攻击3",
+    "name-boss6-normal3-H": "常规攻击3",
+    "name-boss6-normal3-L": "常规攻击3",
+
+    "name-boss6-normal4-E": "常规攻击4",
+    "name-boss6-normal4-N": "常规攻击4",
+    "name-boss6-normal4-H": "常规攻击4",
+    "name-boss6-normal4-L": "常规攻击4",
+
+    "name-boss62-normal1-E": "最终攻击1",
+    "name-boss62-normal1-N": "最终攻击1",
+    "name-boss62-normal1-H": "最终攻击1",
+    "name-boss62-normal1-L": "最终攻击1",
+
+    "name-boss62-normal2-E": "最终攻击2",
+    "name-boss62-normal2-N": "最终攻击2",
+    "name-boss62-normal2-H": "最终攻击2",
+    "name-boss62-normal2-L": "最终攻击2",
+
+
+    "name-boss6a-normal1-E": "常规攻击1",
+    "name-boss6a-normal1-N": "常规攻击1",
+    "name-boss6a-normal1-H": "常规攻击1",
+    "name-boss6a-normal1-L": "常规攻击1",
+
+    "name-boss6a-normal2-E": "常规攻击2",
+    "name-boss6a-normal2-N": "常规攻击2",
+    "name-boss6a-normal2-H": "常规攻击2",
+    "name-boss6a-normal2-L": "常规攻击2",
+
+    "name-boss6a-normal3-E": "常规攻击3",
+    "name-boss6a-normal3-N": "常规攻击3",
+    "name-boss6a-normal3-H": "常规攻击3",
+    "name-boss6a-normal3-L": "常规攻击3",
+
+    "name-boss6a-normal4-E": "常规攻击4",
+    "name-boss6a-normal4-N": "常规攻击4",
+    "name-boss6a-normal4-H": "常规攻击4",
+    "name-boss6a-normal4-L": "常规攻击4",
+
+    "name-boss6a2-normal1-E": "最终攻击1",
+    "name-boss6a2-normal1-N": "最终攻击1",
+    "name-boss6a2-normal1-H": "最终攻击1",
+    "name-boss6a2-normal1-L": "最终攻击1",
+
+
+    "name-boss6-card1-E": "探究「无预设思想构建」",
+    "name-boss6-card1-N": "探究「无预设思想构建」",
+    "name-boss6-card1-H": "混沌「无中生有的开天辟地」",
+    "name-boss6-card1-L": "混沌「无中生有的开天辟地」",
+
+    "name-boss6-card2-E": "观测「想象世界的空间投影」",
+    "name-boss6-card2-N": "观测「想象世界的空间投影」",
+    "name-boss6-card2-H": "创造「负空间社会领域」",
+    "name-boss6-card2-L": "创造「负空间社会领域」",
+
+    "name-boss6-card3-E": "禁锢「意识的自我束缚」",
+    "name-boss6-card3-N": "禁锢「意识的自我束缚」",
+    "name-boss6-card3-H": "逃离「精神的自我超越」",
+    "name-boss6-card3-L": "逃离「精神的自我超越」",
+
+    "name-boss6-card4-E": "异化「精神实体的革命」",
+    "name-boss6-card4-N": "异化「精神实体的狂想」",
+    "name-boss6-card4-H": "对象「意识的感性确定性」",
+    "name-boss6-card4-L": "对象「知觉的真理创造力」",
+
+    "name-boss6-card5-E": "神欲「认识的诞生」",
+    "name-boss6-card5-N": "神心「自我的诞生」",
+    "name-boss6-card5-H": "神理「解放的世外辉光」",
+    "name-boss6-card5-L": "神火「创世的世外意志」",
+
+    "name-boss6-card6-E": "宇宙神话「觉醒的万物之心」",
+    "name-boss6-card6-N": "宇宙神话「觉醒的万物之心」",
+    "name-boss6-card6-H": "宇宙神话「无生命的空想信仰」",
+    "name-boss6-card6-L": "宇宙神话「无生命的空想信仰」",
+
+    "name-boss62-card1-E": "「实在世界的耀光」",
+    "name-boss62-card1-N": "「实在世界的耀光」",
+    "name-boss62-card1-H": "「不尽想象的无限蔓延」",
+    "name-boss62-card1-L": "「不尽想象的无限蔓延」",
+
+    "name-boss6a-card1-E": "探究「无预设思想构建-infinite」",
+    "name-boss6a-card1-N": "探究「无预设思想构建-infinite」",
+    "name-boss6a-card1-H": "混沌「无中生有的开天辟地-infinite」",
+    "name-boss6a-card1-L": "混沌「无中生有的开天辟地-infinite」",
+
+    "name-boss6a-card2-E": "观测「想象世界的空间投影-infinite」",
+    "name-boss6a-card2-N": "观测「想象世界的空间投影-infinite」",
+    "name-boss6a-card2-H": "创造「负空间社会领域-infinite」",
+    "name-boss6a-card2-L": "创造「负空间社会领域-infinite」",
+
+    "name-boss6a-card3-E": "暗能量「膨胀与收缩」",
+    "name-boss6a-card3-N": "暗能量「膨胀与收缩」",
+    "name-boss6a-card3-H": "「光隐红移核心」",
+    "name-boss6a-card3-L": "「无限红移的事件视界」",
+
+    "name-boss6a-card4-E": "辐射「暴涨的背景余波」",
+    "name-boss6a-card4-N": "辐射「暴涨的背景余波」",
+    "name-boss6a-card4-H": "「时空引力的掠影」",
+    "name-boss6a-card4-L": "「时空引力的掠影」",
+
+    "name-boss6a-card5-E": "干涉「叠加能量波动」",
+    "name-boss6a-card5-N": "干涉「叠加能量波动」",
+    "name-boss6a-card5-H": "干涉「叠加能量波动」",
+    "name-boss6a-card5-L": "干涉「叠加能量波动」",
+
+    "name-boss6a-card6-E": "宇宙神话「生命时间的限度」",
+    "name-boss6a-card6-N": "宇宙神话「生命时间的限度」",
+    "name-boss6a-card6-H": "宇宙神话「生命认知的极限」",
+    "name-boss6a-card6-L": "宇宙神话「生命认知的极限」",
+
+    "name-boss6a2-card1-E": "回溯「无界限时空跨越」",
+    "name-boss6a2-card1-N": "回溯「无界限时空跨越」",
+    "name-boss6a2-card1-H": "回溯「无界限时空跨越」",
+    "name-boss6a2-card1-L": "回溯「无界限时空跨越」",
+
+
+    "name-midbossex-comment": "开火车撞山啦",
+
+
+    "name-midbossex-card1": "飞跃「伪妖怪山电车」",
+    "name-midbossex-card2": "彷徨「火车难题」",
+    "name-midbossex-card3": "变换「全维度梦想描绘」",
+
+    "name-bossex-comment": "下面是山中隐士的卡",
+    
+    "name-bossex-normal1": "常规攻击1",
+    "name-bossex-normal2": "常规攻击2",
+    "name-bossex-normal3": "常规攻击3",
+    "name-bossex-normal4": "常规攻击4",
+    "name-bossex-normal5": "常规攻击5",
+    "name-bossex-normal6": "常规攻击6",
+    "name-bossex-normal7": "常规攻击7",
+    "name-bossex-normal8": "常规攻击8",
+    
+    "name-bossex-card1": "心符「生命力诱导」",
+    "name-bossex-card2": "极限「本我的克制」",
+    "name-bossex-card3": "避世「逃向全景目光之外」",
+    "name-bossex-card4": "神性「普世价值的构建」",
+    "name-bossex-card5": "迷幻「Any Colour In Your Dream」",
+    "name-bossex-card6": "超越「大地意义」",
+    "name-bossex-card7": "破坏「精神三变」",
+    "name-bossex-card8": "忘却「白日茫迷雾云起」",
+    "name-bossex-card9": "隐世「桃花源的坍缩」",
+    "name-bossex-card10": "「The Wall」"
+}

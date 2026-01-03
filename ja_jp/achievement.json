@@ -1,0 +1,108 @@
+{
+    "achievement-clear-name":  "远空幻想",
+    "achievement-clear-desc":  "不续关通关本游戏",
+    "achievement-clear-exp":  "恭喜！您已经掌握了挑战天空的诀窍。",
+
+    "achievement-unlock_TLB_b-name":  "无限的想象",
+    "achievement-unlock_TLB_b-desc":  "解锁主线关卡 Final Boss",
+    "achievement-unlock_TLB_b-exp":  "创造，你不停创造的世界，消失在脚边。",
+
+    "achievement-unlock_RouteA-name":  "未来派神明",
+    "achievement-unlock_RouteA-desc":  "解锁支线关卡",
+    "achievement-unlock_RouteA-exp":  "时间正是存在之领悟的境域。",
+
+    "achievement-unlock_TLB_a-name":  "穿越万年的引力",
+    "achievement-unlock_TLB_a-desc":  "解锁支线关卡 Final Boss",
+    "achievement-unlock_TLB_a-exp":  "创造，你不停创造的时间，向后又向前。",
+
+    "achievement-imagination-name":  "万物有灵",
+    "achievement-imagination-desc":  "见到全部的隐藏道具的出现方式",
+    "achievement-imagination-exp":  "留心，留意，想象的力量正蕴藏于平凡的事物中。",
+
+    "achievement-Pendulum-name":  "聆听钟声",
+    "achievement-Pendulum-desc":  "全程在版面上半部分 No Miss No Bomb 通过 2 面钟摆阵（练习模式 2 面 Part5 - Part8）",
+    "achievement-Pendulum-exp":  "很久没有听到钟声了，只有讨人厌的闹钟。",
+
+    "achievement-cherish-name":  "珍惜时间",
+    "achievement-cherish-desc":  "在克拉丽贝尔·路易莎的符卡 潜行「时间探照镜」中实际收取时间超过60s",
+    "achievement-cherish-exp":  "再怎么延长寿命也不能永生哦。",
+
+    "achievement-judgement-name":  "接受审判",
+    "achievement-judgement-desc":  "在雾凛凉纪的符卡 审判「座无虚席的不寻常列车」/谋杀「Murder on the Touhou Express」\n中不主动击破任何一只妖精并收取",
+    "achievement-judgement-exp":  "善有善报，恶有恶报。于是相信另一种结论。",
+
+    "achievement-wheel-name":  "反对工业化",
+    "achievement-wheel-desc":  "全程在车轮半径范围外躲避凉纪的符卡「相互牵制的双轮」/「永不停歇的命运车轮」并收取",
+    "achievement-wheel-exp":  "完善交通条件才能促进经济发展。",
+
+    "achievement-compass-name":  "路痴",
+    "achievement-compass-desc":  "不主动击破使魔收取梦行远游的符卡 远点「召唤方位的北极星」/ 探索「世界极点之想象」",
+    "achievement-compass-exp":  "可以学习一下看星星来判断自己的方位。",
+
+    "achievement-Postmodern-name":  "后现代人生",
+    "achievement-Postmodern-desc":  "全程在版面上半部分收取梦行远游的符卡 理符「无意义的思索」/ 心符「彷徨信念的意义构筑」",
+    "achievement-Postmodern-exp":  "尝试摆脱自己被赋予的身份，从而去追求自己心中的意义。",
+
+    "achievement-Rainbow-name":  "In Rainbows",
+    "achievement-Rainbow-desc":  "全程在Boss身边收取五面道中内晶耀泛纱的符卡 宛虹「A Rainbow in Curved Space」/\n「The Construction of Light」",
+    "achievement-Rainbow-exp":  "彩虹偶尔也会出现在天空的角落。",
+
+    "achievement-gravity-name":  "凝心聚神",
+    "achievement-gravity-desc":  "四倍收取凝心的符卡 引力「无法逃离的空间」",
+    "achievement-gravity-exp":  "真理已经存在于我们的心中，就像解锁成就一样，我们只是在达成条件……也许。",
+
+    "achievement-symbol-name":  "逃离象征秩序",
+    "achievement-symbol-desc":  "在神欲知现空的符卡 禁锢「意识的自我束缚」/ 逃离「精神的自我超越」中\n击破150只以上的想象生命并收取",
+    "achievement-symbol-exp":  "凝视实在的我们正步入幻想的世界。",
+
+    "achievement-waves-name":  "跨越世界线的波动",
+    "achievement-waves-desc":  "收取神欲知现空任意难度的 主线第五张符卡 和 干涉「叠加能量波动」 \n以及凝心任意难度的 最后一张符卡",
+    "achievement-waves-exp":  "伽玛射线暴应该不会对准地球吧。",
+
+    "achievement-autonomy-name":  "严于律己",
+    "achievement-autonomy-desc":  "在不击破任何一只大型蝴蝶妖精（以及出现在道中最后的玄思）的前提下 No Miss No Bomb\n通过Ex面道中",
+    "achievement-autonomy-exp":  "拒绝被迫自律。",
+
+    "achievement-rules-name":  "从心所欲不逾矩",
+    "achievement-rules-desc":  "在明隐玄思的符卡 极限「本我的克制」不激活蓝色炎弹收取",
+    "achievement-rules-exp":  "习惯了约束也会感受到自由。",
+
+    "achievement-wall-name":  "撞击那面墙",
+    "achievement-wall-desc":  "在明隐玄思的符卡 超越「大地意义」 中撞击墙壁10次以上并收取",
+    "achievement-wall-exp":  "改变他人还是改变自己？迷墙终将倒塌……",
+
+    "achievement-away-name":  "积极入世",
+    "achievement-away-desc":  "全程在版面上半部分收取明隐玄思的符卡 避世「逃向全景目光之外」",
+    "achievement-away-exp":  "当无法逃避的时候就去面对吧。车到山前必有路。",
+
+    "achievement-lamp-name":  "关灯的高手",
+    "achievement-lamp-desc":  "在明隐玄思的符卡 破坏「精神三变」中，在第一波内将全部方块同时变成深蓝色\n且不被Boss激活。",
+    "achievement-lamp-exp":  "消耗脑力也可以让躲弹幕更加轻松。",
+
+    "achievement-st3-name":  "云海的旅行",
+    "achievement-st3-desc":  "全程不射击 No Miss No Bomb 通过完整的三面道中 \n或 在关卡练习中以0残机0符卡1全局倍率开始，完整通过三面道中并获得大于等于3个残机",
+    "achievement-st3-exp":  "如果可以躺在云海里就好了。空中飘浮的一大朵云里应该住着人吧？",
+
+    "achievement-st4-name":  "Evening Star",
+    "achievement-st4-desc":  "全程不射击 No Miss No Bomb 通过完整的四面道中 \n或 在关卡练习中以0残机0符卡1全局倍率开始，完整通过四面道中并获得大于等于4个残机",
+    "achievement-st4-exp":  "红色的极光在现实里应该很稀有吧。",
+
+    "achievement-st5-name":  "生命的汪洋",
+    "achievement-st5-desc":  "全程不射击 No Miss No Bomb 通过完整的五面道中 \n或 在关卡练习中以0残机0符卡1全局倍率开始，完整通过五面道中并获得大于等于4个残机",
+    "achievement-st5-exp":  "海洋是孕育生命的地方。",
+
+    "achievement-st6-name":  "星际穿越",
+    "achievement-st6-desc":  "全程不射击 No Miss No Bomb 通过完整的六面道中 \n或 在关卡练习中以0残机0符卡1全局倍率开始，完整通过六面道中并获得大于等于3个残机",
+    "achievement-st6-exp":  "有生之年可以普及星际旅行吗？等到普及了我们这代人也会老到身体承受不了了吧。",
+
+    "achievement-unknown":  "？？？",
+    "achievement-nosen":  "……",
+    "achievement-count": "已达成：%d/%d",
+    "achievement-condition": "达成条件：%d",
+    "achievement-require-no-miss": "需要 No Miss 通过",
+    "achievement-require-no-bomb": "需要 No Bomb 通过",
+    "achievement-require-no-special": "需要不使用极限系统通过",
+    "achievement-require-no-practice": "不允许在练习模式中解锁",
+    "achievement-require-hard-or-lunatic": "仅限 Hard/Lunatic 难度"
+}
+
